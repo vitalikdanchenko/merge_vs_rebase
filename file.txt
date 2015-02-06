@@ -2,7 +2,7 @@ modified line 1
 modified line 2
 modified line 3
 line 3
-line 4
+modified line 4
 modified line 5
 modified line 6
 line 7
